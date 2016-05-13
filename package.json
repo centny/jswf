@@ -1,0 +1,21 @@
+{
+  "name": "jsupload",
+  "version": "0.0.1",
+  "description": "pure javascript library for upload file by ajax",
+  "main": "lib/jsupload.js",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/Centny/jsupload.git"
+  },
+  "author": "Centny",
+  "license": "BSD",
+  "dependencies": {},
+  "bugs": {
+    "url": "https://github.com/Centny/jsupload/issues"
+  },
+  "homepage": "https://github.com/Centny/jsupload",
+  "keywords": [
+    "ajax",
+    "fileupload"
+  ]
+}

@@ -1,0 +1,14 @@
+{
+    "name": "jsup",
+    "version": "0.1.0",
+    "author": "Centny <centny@gmail.com>",
+    "dependencies": {
+        "grunt": "0.4.x",
+        "grunt-shell": "0.7.0",
+        "karma-chrome-launcher": "0.1.x",
+        "karma-junit-reporter": "0.2.x",
+        "karma-coverage": "0.2.x",
+        "karma-jasmine": "0.1.x",
+        "grunt-srv": "0.1.x"
+    }
+}

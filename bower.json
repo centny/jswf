@@ -1,0 +1,19 @@
+{
+  "name": "jswf",
+  "description": "pure javascript library for upload file by ajax",
+  "keywords": [
+    "ajax",
+    "fileupload"
+  ],
+  "homepage": "https://github.com/Centny/jswf",
+  "license": "BSD",
+  "moduleType": "globals",
+  "main": [
+    "lib/jswf.js"
+  ],
+  "ignore": [
+    "**/.*",
+    "test",
+    "jsupload.sublime-project"
+  ]
+}
